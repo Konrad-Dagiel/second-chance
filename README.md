@@ -10,3 +10,5 @@ will produce available pages.
 Total page hits and page faults are given at the end of the run.
 
 We assume a "working set" of 3 pages in this demonstration.
+
+A process id of -1 indicates a dummy process.
